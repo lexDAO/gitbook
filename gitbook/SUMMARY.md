@@ -10,3 +10,4 @@
 * [Meetings and Deliverables](grants-committee-charter/meetings-and-deliverables.md)
 * [Budget Administration](grants-committee-charter/budget-administration.md)
 * [Grant Proposals](grants-committee-charter/grant-proposals.md)
+* [Test](grants-committee-charter/test.md)
