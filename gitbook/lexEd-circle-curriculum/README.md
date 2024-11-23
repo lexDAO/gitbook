@@ -4,7 +4,7 @@ Jurisdiction
 - US
 - EU
 - UK (+ Commonwealth)
-- ~~China~~
-- ~~India~~
+- ~~CN~~ (excl HK, Macau)
+- ~~IN~~
 - RoW
 
