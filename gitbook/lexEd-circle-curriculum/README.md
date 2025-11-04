@@ -14,6 +14,10 @@ What distinguishes a [legal engineer](https://medium.com/@esenesener/an-essay-on
 
 1. **rogue** - crypto-lawyer (specialising in transactions), forensic analysis
 2. **summoner** - community ombuds(wo)man, corporate secretary, daosigner
-3. **artificer** - risk assessor, corporate communications, mechanism design
+3. **bard** - risk assessor, corporate communications, mechanism design
 
 ![skillset](https://miro.medium.com/v2/resize:fit:1100/format:webp/0*W1yaxJAyxzhBHu0b.png)
+
+* figher - developers (archer = UI/UX, paladin = backend/datastore)
+* chef - (token)omics
+* scribe - documentation, reporting, systems engineering
