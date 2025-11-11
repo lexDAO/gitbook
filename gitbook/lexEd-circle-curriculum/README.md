@@ -5,7 +5,7 @@ Jurisdiction
 - EU
 - UK (+ Commonwealth)
 - ~~CN~~ (excl HK, Macau)
-- ~~IN~~
+- ~~IN~~  
 - RoW
 
 # H-shaped skills
@@ -30,7 +30,7 @@ What distinguishes a [legal engineer](https://medium.com/@esenesener/an-essay-on
 
 ## Evidence Model (Ethos) - Issue of Facts
 
-The primary mental cognition is to determine truth which requires a degree of scepticism (evidence _for_ and _against_) factual information which can be challenged/admitted. A starting point for resolving disputes in adversarial settings is to get a mutual worldview. This can be complicated by judicial rules of discovery and admissibility which aims to preserve fairness and avoid prejudice. In the end, there may be a narrow set of questions which need to meet thresholds of;
+The primary mental cognition is to determine truth which requires a degree of scepticism (evidence _for_ and _against_) factual information which can be challenged/admitted. A starting point for resolving disputes in adversarial settings is to get a mutual worldview. This can be complicated by judicial rules of discovery and [admissibility](https://dictionary.law.com/Default.aspx?selected=2339) which aims to preserve fairness and avoid prejudice. In the end, there may be a narrow set of questions which need to meet thresholds of;
 * beyond reasonable doubt;
 * on balance of probabilities;
 * more likely than not
@@ -45,4 +45,4 @@ A [visual representation](https://en.wikipedia.org/wiki/Argument_map) of judicia
 
 ## Difference of Opinions (Pathos) - Storyboard
 
-Because law is grounded in human values, and due to the complexities of technical nuances, advocates often resort to analogies to frame the contentions. Whilst it may have little impact on hard factual evidence, it comes into play when seeking legal justifications or excuses which may themselves be illogical (seeking clemancy for killing parents on grounds of being orphan). When there may be many applicable laws, often the storyboard can persuade choices which are easier to prove or have favorable starting presumptions.
+Because law is grounded in human values, and due to the complexities of technical [nuances](https://dictionary.law.com/Default.aspx?selected=1623), advocates often resort to analogies to frame the contentions. Whilst it may have little impact on hard factual [evidence](https://dictionary.law.com/Default.aspx?selected=679), it comes into play when seeking legal justifications or excuses which may themselves be illogical (seeking clemancy for killing parents on grounds of being orphan). When there may be many applicable laws, often the storyboard can persuade choices which are easier to prove or have favorable starting presumptions.
