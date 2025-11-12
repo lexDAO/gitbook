@@ -95,7 +95,7 @@ subgraph Operations
 2x[SecEng-Compliance]
 29[SecEng-Sustainability]
 2y[SecEng-KillSwitch]
-27 -.- 2x
+28 -.- 2x
 29 -.- 2y
 end
 
@@ -104,7 +104,6 @@ end
 00 -.-> 01
 01 --> 02
 02 ==> 03
-Sample ---> Operations
 Design ---> Principles ---> 12
 Domains ===> SecOps ---> 20
 Examples ---> 21
@@ -115,3 +114,35 @@ Operations ---> 30
 ```
 
 Lessig L., _Code 2.0_ [ISBN 978-0465039142](https://upload.wikimedia.org/wikipedia/commons/f/fd/Code_v2.pdf)
+
+# Reference
+
+🇺🇸 Opensource Casebook, [link](https://opensourceproperty.org/download/) 
+
+Raymond E.S., The Jargon File, [link](http://www.catb.org/esr/jargon/html/index.html) (v4.4.7)
+
+Stanford Encyclopedia of Philosophy, [link](https://plato.stanford.edu/contents.html)
+
+# Optional
+
+🇨🇦 Zariskic A. (2014) _Legal Literacy_ [ISBN 978-1927356456]()
+
+```mermaid
+mindmap
+  root[literacy]
+    1[knowledge acquistion]
+      1.1[consciousness]
+      1.2[rights]
+      1.3[obligations]
+    2[reasoned judgement]
+      2.1[dialectic]
+      2.2[socialisation]
+      2.3[decision]
+    3[legal procedure]
+      3.1[mobilisation]
+      3.2[institutions]
+      3.3[resources]
+```
+
+Voshmgir S., _Token Economy_ (3rd ed) [ISBN 978-9899157163](https://github.com/Token-Economy-Book)
+
