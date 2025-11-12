@@ -1,7 +1,3 @@
-Systems Engineerng Book of Knowledge (v 2.12), [link](https://sebokwiki.org/wiki/Guide_to_the_Systems_Engineering_Body_of_Knowledge_(SEBoK))
-
-![map](https://sebokwiki.org/w/images/f/fd/WoYFSO.png)
-
 Anderson R., _Security Engineering_ [ISBN 978-1119642787
 ](https://www.cl.cam.ac.uk/archive/rja14/Papers/SEv3.pdf)
 
@@ -119,11 +115,17 @@ Operations ---> 30
 
 Lessig L., _Code 2.0_ [ISBN 978-0465039142](https://upload.wikimedia.org/wikipedia/commons/f/fd/Code_v2.pdf)
 
+Leveson N.G., _Engineering for a Safer World_ [ISBN 978-0262533690](http://sunnyday.mit.edu/safer-world.pdf)
+
 # Reference
 
 🇺🇸 Opensource Casebook, [link](https://opensourceproperty.org/download/) 
 
 Raymond E.S., The Jargon File, [link](http://www.catb.org/esr/jargon/html/index.html) (v4.4.7)
+
+Systems Engineerng Book of Knowledge (v 2.12), [link](https://sebokwiki.org/wiki/Guide_to_the_Systems_Engineering_Body_of_Knowledge_(SEBoK))
+
+![map](https://sebokwiki.org/w/images/f/fd/WoYFSO.png)
 
 Stanford Encyclopedia of Philosophy, [link](https://plato.stanford.edu/contents.html)
 
