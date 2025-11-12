@@ -1,3 +1,7 @@
+Systems Engineerng Book of Knowledge (v 2.12), [link](https://sebokwiki.org/wiki/Guide_to_the_Systems_Engineering_Body_of_Knowledge_(SEBoK))
+
+![map](https://sebokwiki.org/w/images/f/fd/WoYFSO.png)
+
 Anderson R., _Security Engineering_ [ISBN 978-1119642787
 ](https://www.cl.cam.ac.uk/archive/rja14/Papers/SEv3.pdf)
 
