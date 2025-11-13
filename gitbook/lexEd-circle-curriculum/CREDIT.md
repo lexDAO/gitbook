@@ -129,6 +129,16 @@ Systems Engineerng Book of Knowledge (v 2.12), [link](https://sebokwiki.org/wiki
 
 Stanford Encyclopedia of Philosophy, [link](https://plato.stanford.edu/contents.html)
 
+# Tools
+
+cadCAD - macroeconomic modelling of tokenomics
+
+OpenFISCA - mesoeconomic modelling of fiscal policy
+
+machiNations - microeconomic simulation of game microtransactions
+
+![OpenFISCA](https://github.com/digitalaotearoa/rac-guide/blob/gh-pages/rac-architecture.png?raw=true)
+
 # Optional
 
 🇨🇦 Zariskic A. (2014) _Legal Literacy_ [ISBN 978-1927356456]()
